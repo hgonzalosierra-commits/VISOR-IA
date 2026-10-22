@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.env
+*.tif
+*.tiff
+*.MP4
+*.mp4
+*.SRT
+*.srt
